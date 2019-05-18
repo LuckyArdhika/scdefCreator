@@ -22,7 +22,7 @@ mes ="""       <[+==============================================+]>
 	 |		Facebook  : lucky.ardhika	|
 	 |		Instagram : @chg.official	|
 	 |		FreeFire  : SAVAGE2025L		|
-	 |		Youtube   : LuckyArd110		|
+	 |		Youtube   : Ethical Dark ID     |
        <[+==============================================+]>"""
 
 os.system('clear')
